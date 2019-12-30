@@ -28,7 +28,7 @@ public class Palindrome {
 		int numberOfSingles = 0;
 		int[] arr = new int[myMap.size()];
 		int i =0;
-		String myString = "";
+		
 		for (Character c : myMap.keySet()) {
 			int value = myMap.get(c);
 			int dividedValue = value / 2;
