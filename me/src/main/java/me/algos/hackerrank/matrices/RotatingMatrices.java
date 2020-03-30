@@ -6,6 +6,8 @@ public class RotatingMatrices {
 
 	public static void main(String[] args) {
 		
+		matrixRotation(null, 0);
+		
 
 	}
 	
